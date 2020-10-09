@@ -1,0 +1,5 @@
+api/api/obj/
+api/.vs/
+api/packages/
+api/DataAccess/obj/
+api/api/bin/
