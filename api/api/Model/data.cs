@@ -13,4 +13,5 @@ namespace api.Model
         public DateTime ModifiedDate { get; set; }
 
     }
+
 }
